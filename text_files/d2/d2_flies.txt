@@ -1,0 +1,3 @@
+Flies’ colour preferences depend on the time of day
+
+Behavioural and genetic experiments have revealed that fruit flies prefer green light over other colours in the morning and evening, and always avoid blue. These colour preferences rely on different mechanisms

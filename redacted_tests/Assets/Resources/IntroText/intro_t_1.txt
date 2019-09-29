@@ -1,0 +1,11 @@
+On the right you will see the inaccuracies for redaction in the submitted text.
+
+Anything the party wishes to be erased will appear here.
+
+You are to find these inaccuracies within the provided text documents and redact them. 
+
+You perform this redaction by clicking on the word. This will make it disappear. 
+
+So if "biblical names" were to appear in the box you would redact all occurences of these from the provided text documents.
+
+If "losses" were to appear words like "fallen", "lost", "destroyed" would be redacted. 

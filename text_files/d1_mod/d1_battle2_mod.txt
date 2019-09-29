@@ -1,0 +1,6 @@
+<link=0><color=white>Battlefield</color></link> <link=1><color=white>report</color></link>: 
+<link=2><color=white>The</color></link> <link=3><color=white>last</color></link> <link=4><color=white>checkpoint</color></link> <link=5><color=white>outside</color></link> <link=6><color=white>of</color></link> <link=7><color=white>Trotskerth</color></link> <link=8><color=white>has</color></link> <link=9><color=white>fallen</color></link>. 
+
+<link=10><color=white>We</color></link> <link=11><color=white>are</color></link> <link=12><color=white>making</color></link> <link=13><color=white>a</color></link> <link=14><color=white>last</color></link> <link=15><color=white>stand</color></link> <link=16><color=white>within</color></link> <link=17><color=white>the</color></link> <link=18><color=white>town</color></link>. <link=19><color=white>Send</color></link> <link=20><color=white>reinforcements</color></link> <link=21><color=white>immediately</color></link>. 
+
+<link=22><color=white>Time</color></link> <link=23><color=white>is</color></link> <link=24><color=white>short</color></link>. 
